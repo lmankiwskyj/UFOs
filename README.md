@@ -3,7 +3,7 @@
 ## Overview 
 A new webpage has been created to provide users with an in-depth analysis of UFO sightings.  
 ![Capture1](https://user-images.githubusercontent.com/90974647/144753115-f21755d4-8817-4088-bf16-ddd822fd0cf5.PNG)
-Using JavaScript and Bootstrap, the webpage allows users to filter by multiple input options at the same time. 
+Using JavaScript and Bootstrap, the webpage allows users to filter by multiple input options. 
 
 ## Results
 With dynamic and interactive filters, users can input specific criteria to search by date, city, state, country, and/or shape.
